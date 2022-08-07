@@ -1,0 +1,39 @@
+[
+    {
+        "id":1,
+        "title":"Code Refactor",
+        "screenshot":"",
+        "description":"HTMLS semantic tags",
+        "github":"",
+        "live":""
+    },
+
+    {
+        "id":2,
+        "title":"Team Profiler",
+        "screenshot":"/screenshot/todo.png",
+
+        "description":"Node js app",
+        "github":"https://github.com/Babygirl110609/team-profile-generator",
+        "live": "https://github.com/Babygirl110609/team-profile-generator/blob/main/README.md"
+    },
+
+    {
+        "id":3,
+        "title":"Budget Tracker",
+        "screenshot":"/screenshot/todo.png",
+
+        "description":"HTMLS semantic tags",
+        "github":"https://github.com/Babygirl110609/steph-budget-tracker",
+        "live":"https://drive.google.com/file/d/1f0dTCNyDFZ-0Ly61LREpkqy4lFRP3LOn/view"
+    },
+
+    {
+        "id":4,
+        "title":"Workday scheduler",
+        "screenshot":"/screenshot/todo.png",
+        "description":"JQuery",
+        "github":"https://github.com/Babygirl110609/work-day-scheduler",
+        "live":"https://babygirl110609.github.io/work-day-scheduler/"
+    }
+]
