@@ -4,7 +4,7 @@ import About from '../pages/AboutMe';
 import Contact from '../pages/Contact';
 import NavMenu from "./NavMenu";
 import Project from '../pages/Project';
-import Resume from '../pages/Resume';
+// import Resume from '../pages/Resume';
 export default function Header() {
     const [currentPage, setCurrentPage] = useState('Home');
 
@@ -25,9 +25,9 @@ export default function Header() {
         }
 
 
-        if (currentPage === 'Resume') {
-            return <Resume />;
-        }
+        // if (currentPage === 'Resume') {
+        //     return <Resume />;
+        // }
 
     };
 
